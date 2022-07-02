@@ -1,2 +1,0 @@
-# gemeentepils
-fortuna
